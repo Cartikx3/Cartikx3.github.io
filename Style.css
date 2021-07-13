@@ -341,7 +341,7 @@ body.dark {
 @media screen and (max-width: 1310px) {
   .mobile_view {
     display: block;
-    transform: scale(1.3);
+    transform: scale(1.1);
   }
 
 }
